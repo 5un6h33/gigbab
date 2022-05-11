@@ -2,10 +2,10 @@
 
 > Front
 > 
-1. Framework
+* Framework
 - React Native
 
-2. Library
+* Library
 - react query
 - react navigation
 - axois
@@ -26,14 +26,14 @@
 
 > Backend
 > 
-1. Framework
+* Framework
 - Node js
 
-2. DB
+* DB
 - mogoose
 - GraphQL
 
-3. Cloud Server
+* Cloud Server
 - AWS EC2
 - Microservice
 - Nginx
@@ -42,19 +42,19 @@
 > API
 > 
 
-| HTTP METHOD | End Point | Description |
+| METHOD | ROUTE | DESCRIPTION |
 | --- | --- | --- |
-| POST | /account/user | 회원가입 |
-| POST | /account/login | 로그인 |
-| POST | /account/check | 인증번호 확인 |
-| POST | /chat/make | 방 만들기 |
-| POST | /chat/send | 메세지 보내기 |
-| POST | /chat/expulsion | 퇴출시키기 |
-| POST | /chat/report | 신고 |
-| POST | /chat/leave | 방 나가기 |
-| GET | /chat/room | 채팅방 들어가기 |
-| GET | /chat/all | 전체 채팅방 조회 (query로 필터 전송) |
-| GET | /account/:chat_id | 내 채팅 리스트 조회 |
+| POST | /api/account/user | 회원가입 |
+| POST | /api/account/login | 로그인 |
+| POST | /api/account/check | 인증번호 확인 |
+| POST | /api/chat/make | 방 만들기 |
+| POST | /api/chat/send | 메세지 보내기 |
+| POST | /api/chat/expulsion | 퇴출시키기 |
+| POST | /api/chat/report | 신고 |
+| POST | /api/chat/leave | 방 나가기 |
+| GET | /api/chat/room | 채팅방 들어가기 |
+| GET | /api/chat/all | 전체 채팅방 조회 (query로 필터 전송) |
+| GET | /api/account/:chat_id | 내 채팅 리스트 조회 |
 
 > Workflow
 > 
