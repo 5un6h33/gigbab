@@ -5,7 +5,7 @@
 1. Framework
 - React Native
 
-1. Library
+2. Library
 - react query
 - react navigation
 - axois
@@ -29,11 +29,11 @@
 1. Framework
 - Node js
 
-1. DB
+2. DB
 - mogoose
 - GraphQL
 
-1. Cloud Server
+3. Cloud Server
 - AWS EC2
 - Microservice
 - Nginx
