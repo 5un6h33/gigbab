@@ -2,20 +2,20 @@
 
 > Front
 
-- Framework
+1. Framework
 
-* React Native
+- React Native
 
-- Library
+2. Library
 
-* react query
-* react navigation
-* axois
-* material UI
-* nodemon
-* timeago js
-* passport
-* passport-kakao
+- react query
+- react navigation
+- axois
+- material UI
+- nodemon
+- timeago js
+- passport
+- passport-kakao
 
 > Pages
 
@@ -28,21 +28,21 @@
 
 > Backend
 
-- Framework
+1. Framework
 
-* Node js
+- Node js
 
-- DB
+2. DB
 
-* mogoose
-* GraphQL
+- mogoose
+- GraphQL
 
-- Cloud Server
+3. Cloud Server
 
-* AWS EC2
-* Microservice
-* Nginx
-* Redis
+- AWS EC2
+- Microservice
+- Nginx
+- Redis
 
 > API
 
@@ -62,11 +62,10 @@
 
 > Workflow
 
-- 회원 가입 혹은 로그인을 합니다.
-  1. 기숙사 선택 ( 디테일하게 ) → 초반에는 경희대만 시작 → 국캠( 우정원, 제 2기숙사) 설캠 ( 행복기숙사, 세화원 ) → 마이페이지
-  2. 카카오톡 회원가입 api 연동 후
-  3. 학생종합정보시스템 보류 ( 유저가 원하면 그때 넣기 )
-
+1. 회원 가입 혹은 로그인을 합니다.
+   1. 기숙사 선택 ( 디테일하게 ) → 초반에는 경희대만 시작 → 국캠( 우정원, 제 2기숙사) 설캠 ( 행복기숙사, 세화원 ) → 마이페이지
+   2. 카카오톡 회원가입 api 연동 후
+   3. 학생종합정보시스템 보류 ( 유저가 원하면 그때 넣기 )
 2. 튜토리얼 이러이러하게 주문을 하고, 주문 및 배달은 외부앱을 이용해야 합니다. 긱밥은 기숙사생들을 이어주는 징검다리 역할입니다~ 설명 기획
 3. 어떤 방이 있는지 , 검색 ( 필터 , 배민 키워드 그대로 하고 )
 4. 방에 들어가서 채팅해서 메뉴얼대로 주문하면 되고, ( 방 만들기 → 한 줄 소개글 )
@@ -81,7 +80,7 @@
    7. 카테고리 설정 ( 한식 중식 일식 양식 잡식 )
    8. 그냥 실명으로 → ( 익명으로 → 실명으로 보류 )
 7. 방 내에서
-   - 내보내기 기능 , 신고 기능
+   1. 내보내기 기능 , 신고 기능
    2. 채팅 기능
    3. 모두가 “음식 잘 받으셨나요?” 안받으셨으면 신고해주세요” 저희가 혼내드림 → 탈퇴 기능
 8. 마이페이지
